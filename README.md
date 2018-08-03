@@ -1,7 +1,7 @@
 # BSTSet
 Binary Search Tree implementation
 
-Requirements of this Lab:
+Lab Description:
 
 
 In this lab you will implement the Set abstract data type using binary search trees.
